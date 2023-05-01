@@ -30,7 +30,6 @@ export function init(Constants) {
                 placeholderOffset: [0, 0, 0],
             }
         },
-	/*
 
 	{
             card: {
@@ -115,7 +114,6 @@ export function init(Constants) {
                 
             }
         },
-	*/
 
 
         {
@@ -129,7 +127,6 @@ export function init(Constants) {
                 dataType: "jpg",
             }
         },
-	/*
 
 	{
             card: {
@@ -147,7 +144,6 @@ export function init(Constants) {
                 width: 4,
             }
             },
-	*/
 
     ];
 }
